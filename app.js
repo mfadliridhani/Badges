@@ -1,0 +1,1 @@
+document.querySelector("#badge").innerHTML = "Hello JavaScript!";
