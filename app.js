@@ -1,1 +1,1 @@
-document.querySelector("#badge").innerHTML = "Hello JavaScript!";
+document.querySelector("#badge").innerHTML = "This is a badge!";
